@@ -41,4 +41,4 @@ Rastgele Görüntü Tahminlerinin Görselleştirilmesi:
 
 Test setinden rastgele seçilen 9 görüntü için modelin tahmin ettiği sınıflar ile gerçek sınıflar karşılaştırılır.
 Görüntülerin altına tahmin edilen ve gerçek sınıflar yazılır, doğru tahminler yeşil, yanlış tahminler kırmızı ile gösterilir.
-https://www.kaggle.com/code/neslihantoprak/ann-classification-neslihan-toprak/edit 
+https://www.kaggle.com/code/neslihantoprak/ann-classification-neslihan-toprak
